@@ -1,2 +1,5 @@
 # Java-Projects
-workspace for Java projects
+
+***
+## Overview
+This repository serves as a workspace for Java projects.
